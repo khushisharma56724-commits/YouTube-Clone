@@ -38,4 +38,12 @@ This project was created as part of my HTML and CSS learning journey by followin
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
