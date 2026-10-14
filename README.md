@@ -42,8 +42,10 @@ This project was created as part of my HTML and CSS learning journey by followin
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
