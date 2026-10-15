@@ -38,6 +38,7 @@ This project was created as part of my HTML and CSS learning journey by followin
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,8 @@ This project was created as part of my HTML and CSS learning journey by followin
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
