@@ -61,4 +61,12 @@ This project was created as part of my HTML and CSS learning journey by followin
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
