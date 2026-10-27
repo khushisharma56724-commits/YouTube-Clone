@@ -44,6 +44,7 @@ This project was created as part of my HTML and CSS learning journey by followin
 | ------- |
 | [0125-valid-palindrome](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ This project was created as part of my HTML and CSS learning journey by followin
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
