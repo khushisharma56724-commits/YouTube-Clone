@@ -66,11 +66,13 @@ This project was created as part of my HTML and CSS learning journey by followin
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/khushisharma56724-commits/YouTube-Clone/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
